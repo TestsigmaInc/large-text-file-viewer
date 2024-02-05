@@ -1,5 +1,5 @@
 {
-    "name": "react-log-file-viewer",
+    "name": "log-file-viewer",
     "version": "1.0.18-rc.0",
     "description": "A React component for viewing large text files.",
     "main": "dist/index.js",
@@ -21,7 +21,7 @@
         "viewer",
         "large file"
     ],
-    "author": "Vinodh Kumar G",
+    "author": "Testsigma",
     "license": "MIT",
     "repository": {
         "type": "git",
